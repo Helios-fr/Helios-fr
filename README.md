@@ -27,8 +27,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; I Enjoy to code and share my knowledge <br/><br/>
+ ❤️ &emsp; I Love to write code and learn new things<br/><br/>
  📧 &emsp; Reach me anytime: <b><a href="t.me/qHelios" target="_blank">t.me/qHelios</a></b><br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/helios-fr/helios-fr/issues)
 
