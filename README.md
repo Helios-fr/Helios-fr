@@ -1,3 +1,1 @@
-<div align="center">
-    <img src="bulma.svg">
-</div>
+## Welcome to my profile
